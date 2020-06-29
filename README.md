@@ -1,2 +1,1 @@
-# Newtons_Cradal
-Newton's Cradal
+# Box Class
